@@ -1,0 +1,9 @@
+{
+	"name": "adf-test-ssis",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e2c1578f-f278-4873-9bc9-a390f84f9cd2",
+		"tenantId": "5092f171-8d56-4e09-ac70-5ff2f3301907"
+	}
+}
