@@ -1,0 +1,7 @@
+{
+	"name": "AzureSqlDatabase-adfTest-ple",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/3a89d508-f992-4729-9058-ba4fae9a35ca/resourceGroups/sandbox-nl03386-1652882660-rg/providers/Microsoft.Sql/servers/adf-test-dbserver",
+		"groupId": "sqlServer"
+	}
+}
